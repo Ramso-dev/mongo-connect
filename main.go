@@ -9,7 +9,7 @@ import (
 
 //const MongoDb details
 const (
-	hosts      = "https://mydb-cw-portal-plg.playground.itandtel.at:27017"
+	hosts      = "10.1.5.242:27017"
 	database   = "sampledb"
 	username   = "ramsopanzer"
 	password   = "P30AWo6lDWTKbT6l"
